@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //comment at line 46
+        //kjacasoc
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
